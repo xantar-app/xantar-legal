@@ -1,2 +1,3 @@
 # xantar-legal
-These are Xantar's legal pages.
+
+This repository only redirects to the current legal texts at https://xantar-app.github.io/.
